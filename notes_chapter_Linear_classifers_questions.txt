@@ -1,0 +1,20 @@
+Study Question: What is green vector normal to the hyperplane? Specify it as a column vector
+Have to look
+
+Study Question: What change would you have to make to θ, θ0 if you wanted to
+have the separating hyperplane in the same place, but to classify all the points labeled ’+’ in the diagram as negative and all the points labeled ’-’ in the diagram as
+positive?
+
+not sure but changing the sign of theta and theta0 ie -θ, -θ0 will have the line in same place and but can be wrong
+
+https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week1/linear_classifiers/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40linear_classifiers
+
+Study Question: What do you think happens to En(h), where h is the hypothesis
+returned by RANDOM-LINEAR-CLASSIFIER, as k is increased?
+
+as k increses the the RANDOM-LINEAR-CLASSIFIER will settle to a minimum point .En(h) may not be small for all k(random h) but algo will give the random 
+
+Study Question: What properties of  Dn  do you think will have an effect on  En(h) ?  
+
+training data must not be skewd and overfitted 
+not sure about posssible answer
